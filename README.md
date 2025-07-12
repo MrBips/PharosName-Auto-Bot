@@ -1,4 +1,6 @@
 # PNS Auto Bot 🤖
+<img width="918" height="485" alt="image" src="https://github.com/user-attachments/assets/a6be3c59-b7dd-4610-9dae-68dd89795f4c" />
+
 
 A Node.js automation bot for registering PNS (Pharos Name Service) domains on the Ethereum blockchain. This bot automatically registers random domain names using multiple wallet private keys with configurable concurrency and retry mechanisms.
 
